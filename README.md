@@ -1,0 +1,2 @@
+# androidAssetManagemnetApp
+# This is a development to ease IT asset Management.  There will be an Android app that uses the device camera to scan a barcode attached to the asset.  That barcode will contain the asset number.  The Android app will then send the asset number to a database containing all assets.  The database will hold hardware and software information, as well as a log to show the last scan.  A web interface will be created for managing the database.
